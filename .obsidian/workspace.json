@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a3d9ad0faab10ea",
+            "id": "bd0d4416d9c797b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/The Perfect  School System.md",
+                "file": "Days Notes/2022-11-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/The Perfect  School System.md",
+                "file": "Days Notes/2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/The Perfect  School System.md",
+                "file": "Days Notes/2022-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,34 +122,32 @@
             }
           },
           {
-            "id": "5b1c1a4a3dc3f7d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Philosophy/The Perfect  School System.md"
-              }
-            }
-          },
-          {
             "id": "9e34fa93612ea5c0",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5b513e181197a66a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2a3d9ad0faab10ea",
+  "active": "5b513e181197a66a",
   "lastOpenFiles": [
-    "Philosophy/The Perfect  School System.md",
     "Days Notes/2022-11-28.md",
+    "Philosophy/The Perfect  School System.md",
     "Philosophy/The Perfect  School System 1.md",
     "Untitled 20221128 100817.encrypted",
     "Untitled 20221128 100750.encrypted",
