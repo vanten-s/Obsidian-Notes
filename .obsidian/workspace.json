@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3206dfd5bf85d2b0",
+        "id": "93f6837c6df10da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fba1a4620f1888",
+            "id": "2a3d9ad0faab10ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7bd5c2c633fda1d9",
@@ -145,12 +146,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5fba1a4620f1888",
+  "active": "2a3d9ad0faab10ea",
   "lastOpenFiles": [
+    "Philosophy/The Perfect  School System.md",
     "Days Notes/2022-11-28.md",
     "Philosophy/The Perfect  School System 1.md",
     "Untitled 20221128 100817.encrypted",
-    "Philosophy/The Perfect  School System.md",
     "Untitled 20221128 100750.encrypted",
     "Untitled 20221128 095459.encrypted",
     "School/Maths.md",
