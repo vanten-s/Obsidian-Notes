@@ -14,14 +14,14 @@ Homework is another problem. It makes student's minds constantly full of their h
 ### Society
 
 #### Inequality
-Capitalists would thrive of a workforce made out of people who only follow instructions. This in turn would lead to more inequality as the workforce knows only to get used by the capitalist. The proletariat would suffer for generations to come as the next generation comes and experiences the same thing. 
+Capitalists would thrive of a workforce made out of people who only follow instructions. This in turn would lead to more inequality as the workforce knows only to get used by the capitalist. The proletariat would suffer for generations to come as the next generation comes and experiences the same thing.  
 
 #### Suffering
-In school the students would suffer. They would be lonely and depressed. This can make their parent stressed because of their child suffering. This in turn can cause 3 
-
+In school the students would suffer. They would be lonely and depressed. This would in turn cause the working class to be less productive and we would have another economic crash.
 
 ## The solutions
 
 ### The wider society
+If the rest of society would get rid of the capitalist system then we wouldn't have capitalist forces affecting the school system. Social media is also dependent on capitalism as it's owned and funded by big companies. These companies also make it harder to share socialist ideas on social media by not recommending them to people. If we solve the rest of society school would solve itself. 
 
 
