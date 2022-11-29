@@ -17,7 +17,7 @@ Homework is another problem. It makes student's minds constantly full of their h
 Capitalists would thrive of a workforce made out of people who only follow instructions. This in turn would lead to more inequality as the workforce knows only to get used by the capitalist. The proletariat would suffer for generations to come as the next generation comes and experiences the same thing. 
 
 #### Suffering
-In school the students would suffer. They would be lonely
+In school the students would suffer. They would be lonely and depressed. This can make their parent stressed because of their child suffering. This in turn can cause 3 
 
 
 ## The solutions
