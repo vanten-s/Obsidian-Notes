@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days Notes/2022-11-28.md",
+                "file": "Philosophy/The Perfect  School System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7bd5c2c633fda1d9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days Notes/2022-11-28.md",
+                "file": "Philosophy/The Perfect  School System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days Notes/2022-11-28.md",
+                "file": "Philosophy/The Perfect  School System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +135,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "68b4fc5d2d7a1305",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Philosophy/The Perfect  School System.md"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -144,8 +153,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5b513e181197a66a",
+  "active": "bd0d4416d9c797b6",
   "lastOpenFiles": [
+    "Days Notes/2022-11-29.md",
     "Days Notes/2022-11-28.md",
     "Philosophy/The Perfect  School System.md",
     "Philosophy/The Perfect  School System 1.md",
