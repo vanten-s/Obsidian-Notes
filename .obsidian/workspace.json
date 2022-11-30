@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7bd5c2c633fda1d9",
@@ -155,15 +156,15 @@
   },
   "active": "bd0d4416d9c797b6",
   "lastOpenFiles": [
+    "Days Notes/2022-11-30.md",
+    "Philosophy/The Perfect  School System.md",
     "Days Notes/2022-11-29.md",
     "Days Notes/2022-11-28.md",
-    "Philosophy/The Perfect  School System.md",
     "Philosophy/The Perfect  School System 1.md",
     "Untitled 20221128 100817.encrypted",
     "Untitled 20221128 100750.encrypted",
     "Untitled 20221128 095459.encrypted",
     "School/Maths.md",
-    "Days Notes/Template.md",
-    "2022-11-28.md"
+    "Days Notes/Template.md"
   ]
 }
