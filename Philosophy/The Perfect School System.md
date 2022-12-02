@@ -34,7 +34,10 @@ Every student should be aware about the schools decision if they want to. They s
 Every student has the right to go to school if they so choose. At the same time it's volountary, just like many other things, to appear to every class. If the student do not wish to show up, they don't have to. Of course you have to have some knowledge from a previous lesson to get to the next one but instead of a linear learning you can watch online if there is anything you've missed. This also makes it required for the teacher to record their lessons.
 
 ### Difficulty
-Every student can choose what difficulty they study at.
+Every student can choose what difficulty they study at. This helps them get adjusted and if you're slow you can learn slower and the school allows for that.
+
+### Relevance
+Everything that is required for everyone. This includes but is not limited to how our democracy works, how to pay your taxes, how to get a job and more. This will help the student get happy later in life. ttt4z
 
 ## How to achivie this
 
