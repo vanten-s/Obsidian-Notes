@@ -1,0 +1,1 @@
+When writing [[The Perfect School System]] i realised that this whole age has many consequences and can cause bullying. In this age it's almost impossible for schools to prevent cyberbullying, mental health issues and often physical health issues.

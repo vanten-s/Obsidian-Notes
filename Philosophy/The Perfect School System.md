@@ -37,17 +37,16 @@ Every student has the right to go to school if they so choose. At the same time 
 Every student can choose what difficulty they study at. This helps them get adjusted and if you're slow you can learn slower and the school allows for that.
 
 ### Relevance
-<<<<<<< HEAD
 The students can always lear everything that is required for everyone. This includes but is not limited to how our democracy works, how to pay your taxes, how to get a job and more. This helps the student get happy later in life. 
 
-### Long
-The school day is fun but 
-=======
-Everything that is required for everyone. This includes but is not limited to how our democracy works, how to pay your taxes, how to get a job and more. This will help the student get happy later in life.
->>>>>>> 1226e0b7281441b511a4362f418b30f085ec966b
+### Fun
+The school day is fun but long. The student doesn't view school as a bad thing and thinks it fun to be there. The lessons will always be made for the student to have fun learning. This way you can make the students want to stay longer and make the day longer. The students still learn only slower than before but because they have longer days this will not matter. 
 
 ### Phones
-Phones can distract the student. Student's are not allowed to use phones except for the phones deal't out by the school which only allows you to see the program for the day and 
+Phones can distract the student. Student's are not allowed to use phones except for the phones deal't out by the school which only allows you to see the schedule for the day and basic information like if a teacher is sick or similar.
+
+### Bullying
+The school has a tight grip on bullying. No bullying is allowed in the school and punishments are harsh for the ones that bully. If a teacher witnesses bullying or someone reports bullying then 
 
 ## How to achivie this
 
