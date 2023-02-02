@@ -1,9 +1,5 @@
-Rules
-$\int{kxdx}=k\int{xdx}$
-$\int{e^kxdx}=\frac{e{^kx}}k$
-$\int{}$
+$\int_0^1{x^2dx}$
 
-[[The Perfect School System]] is so much more fun
 
 
 
