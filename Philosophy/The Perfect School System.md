@@ -53,4 +53,7 @@ The school has a tight grip on bullying. No bullying is allowed in the school an
 ### The wider society
 If the rest of society would get rid of the capitalist system then we wouldn't have capitalist forces affecting the school system. Social media is also dependent on capitalism as it's owned and funded by big companies. These companies also make it harder to share socialist ideas on social media by not recommending them to people. If we solve the rest of society school would solve itself. 
 
+## Reform
+Reform is better than revolution.
+
 
